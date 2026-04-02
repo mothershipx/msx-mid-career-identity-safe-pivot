@@ -1,0 +1,32 @@
+{
+  "id": "67d15bba-e6e3-45e1-a5cc-afa05a9ff086",
+  "name": "Mid-Career 'Identity-Safe' Pivot Frameworks",
+  "slug": "mid-career-identity-safe-pivot",
+  "category": "saas",
+  "score": 92,
+  "description": "Highly skilled professionals (Tech/Software/Child Welfare) find themselves 'trapped' in careers they chose at 18. They want to leave but feel their skills are non-transferable and fear 'starting over' from zero, often leads to 'failing upwards' into more misery just for the benefits.",
+  "pain_points": [
+    "Golden handcuffs (pensions/high salary) vs. misery",
+    "Feeling like a 'one-trick pony' after 8+ years in one field",
+    "Fear of the 'loss of status' when switching to blue-collar or creative work"
+  ],
+  "market_size": null,
+  "tech_stack": [
+    "node",
+    "express",
+    "react"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "name": "reddit",
+      "trend": "45 upvotes",
+      "source": "reddit",
+      "mentions": 13
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-mid-career-identity-safe-pivot/",
+  "repo_url": "https://github.com/mothershipx/msx-mid-career-identity-safe-pivot",
+  "created_at": "2026-04-02T07:09:44.693Z",
+  "pipeline_version": "1.0.0"
+}
