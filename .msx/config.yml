@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Mid-Career 'Identity-Safe' Pivot Frameworks
+slug: mid-career-identity-safe-pivot
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: mid-career-identity-safe-pivot.msx.dev
